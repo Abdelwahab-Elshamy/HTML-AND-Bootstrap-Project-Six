@@ -1009,6 +1009,11 @@ header .box-two {
     width: 46%;
   }
 }
+@media (max-width: 1023px) {
+  .elctro .row .box-number-tow {
+    width: 170px;
+  }
+}
 
 /* Start Footer  */
 .footer {
