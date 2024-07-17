@@ -834,11 +834,7 @@ header .box-two {
     display: none;
   }
 }
-@media (max-width:1023px){
-  .elctro .row .box .center {
-    font-size : 12px;
-  }
-}
+
 .elctro .row .box-number-tow img {
   width: 223px;
   height: 255px;
@@ -846,11 +842,7 @@ header .box-two {
   object-fit: cover;
   border-radius: 14px;
 }
-@media (max-width: 1023px) {
-  .elctro .row .box-number-tow img {
-    width: 170px;
-  }
-}
+
 @media(max-width:1023px{
   .elctro .row .box-number-tow {
     width: 177px;
