@@ -891,7 +891,7 @@ header .box-two {
   }
 }
 .elctro .row .text-elctro .active {
-  font-size: 42px;
+  font-size: 32px;
   color: #445b61;
 }
 @media (max-width: 1023px) {
