@@ -846,6 +846,11 @@ header .box-two {
     width: 170px;
   }
 }
+@media(max-width:1023px{
+  .elctro .row .box-number-tow {
+    width: 177px;
+  }
+}
 .yanbu .row .box-number-tow .text {
   padding-top: 30px;
 }
